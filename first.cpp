@@ -2,12 +2,10 @@
 using namespace std;
 int main(){
 
-int a;
-cout<<"ENTER A NUMBER AYOU NERD"<<endl;
-cin>>a;
-a++;
-cout<<a<<endl;
+
+cout<<"Hello Gaurab"<<"You've got to be a good programmer okay"<<endl;
+cout<<"OKAY BROTHER CYA"<<endl;
+
 
     return 0;
-
 }
